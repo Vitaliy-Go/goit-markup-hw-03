@@ -253,8 +253,8 @@ section {
    width: calc((100% - 72px) / 4);
 }
 
-.conteiner-card {
-   padding: 32px 0 32px;
+.container-card {
+   padding: 32px 0;
 }
 
 .img-team {
