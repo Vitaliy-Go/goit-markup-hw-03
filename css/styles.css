@@ -326,6 +326,9 @@ section {
 }
 
 .our-portfolio-card {
+   text-align: center;
+   background-repeat: 4px;
+   padding: 20px;
    width: calc((100% - 2 * 24px) / 3);
 }
 
@@ -346,7 +349,7 @@ section {
    line-height: 150%;
    letter-spacing: 0.02em;
    color: #f4f4fd;
-   width: 264px;
+   max-width: 264px;
 }
 
 .h-logo-f {
