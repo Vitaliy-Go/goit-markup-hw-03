@@ -17,6 +17,7 @@ h3,
 h4,
 h5,
 h6 {
+   margin: 0;
 }
 
 a {
@@ -64,7 +65,7 @@ section {
    display: flex;
 }
 
-.logo {
+.logo-web {
    color: #2e2f42;
 }
 
@@ -165,6 +166,7 @@ section {
    display: block;
    min-width: 169px;
    margin: 0 auto;
+   border: none;
 }
 
 .button:hover {
@@ -236,6 +238,7 @@ section {
    text-transform: capitalize;
    color: #2e2f42;
    margin-bottom: 72px;
+   text-align: center;
 }
 
 .team-list {
