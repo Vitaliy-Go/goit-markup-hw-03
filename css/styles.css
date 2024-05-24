@@ -154,6 +154,7 @@ section {
 
 .button {
    cursor: pointer;
+
    background: #4d5ae5;
    font-weight: 500;
    line-height: 1.5;
@@ -164,8 +165,8 @@ section {
    height: 56px;
    display: block;
    min-width: 169px;
-   margin: 0 auto;
    border: none;
+   margin: 0 auto;
 }
 
 .button:hover {
@@ -195,6 +196,7 @@ section {
    clip-path: inset(100%);
    clip: rect(0 0 0 0);
    overflow: hidden;
+   margin-bottom: 8px;
 }
 
 .advantages-list {
@@ -253,7 +255,7 @@ section {
 }
 
 .conteiner-card {
-   padding: 32px 0;
+   padding: 32px 0 32px;
 }
 
 .img-team {
